@@ -17,3 +17,14 @@ This project predicts heart disease risk using both:
 To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
+
+##🚀 Running the Project
+1️⃣ Run the Expert Syste
+python rule_based_system/expert_system.py
+
+2️⃣ Train the Decision Tree Model:
+python ml_model/train_model.py
+
+3️⃣ Run the User Interface:
+streamlit run ui/app.py
+
